@@ -1,4 +1,4 @@
-XoomCN3ypma8MDAlh7sVKTrNR
-j17wfPNgg7IDPUopacVNjWr7K427zzovo7hywAc7m0Ygh82j8R
-3557182093-lPAqBbLdQy4aFFSZ9qHtDhfL1dcGXLDs5vTlAti
-uNVGE13lwxdPMAqOoRhgPdMx4LEBCr122IVmFyI4Dxjds
+[api_key]
+[api_key_secret]
+[access_token]
+[access_token_secret]
